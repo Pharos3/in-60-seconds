@@ -7,6 +7,8 @@ autoslide : 30000
 #
 theme : template
 
+theme-background : [ "#5289F7" ]
+
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
