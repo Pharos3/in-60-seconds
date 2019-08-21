@@ -7,7 +7,7 @@ autoslide : 30000
 #
 theme : template
 
-theme-background : [ "#5289F7" ]
+theme-background : [ "#E0D3AF" ]
 
 #
 # Theme-Override Setting
