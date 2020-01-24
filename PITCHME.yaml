@@ -8,7 +8,7 @@ theme : template
 
 theme-background : [ "#E0D3AF" ]
 
-autoslide : 30000
+autoslide : 90000
 
 
 #
